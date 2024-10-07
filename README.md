@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O-1AGqKT)
+Hi! I'm **Chung Qi Lin**, a student in the Software Maintenance and Evolution course.
+
+I'm looking forward to learning more about effective strategies for software maintenance and gaining a deeper understanding of how to deal with legacy systems.
+
+- **Fun fact**: I eat when I'm hungry 🙂.
+- **Course expectations**: To acquire practical skills in maintaining and enhancing software systems, especially in real-world scenarios.
+
+![My Image](meow.jpg)
+
+## GitHub Profile
+You can view my personalized GitHub profile [here](https://github.com/CQL02)
