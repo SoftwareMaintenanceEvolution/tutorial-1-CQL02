@@ -7,4 +7,5 @@ I'm looking forward to learning more about effective strategies for software mai
 
 ![My Image](meow.jpg)
 
-[GitHub Profile](https://github.com/CQL02)
+## GitHub Profile
+You can view my personalized GitHub profile [here](https://github.com/CQL02)
