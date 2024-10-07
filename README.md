@@ -1,4 +1,4 @@
-Hi! I'm [Chung Qi Lin], a student in the Software Maintenance and Evolution course.
+Hi! I'm **Chung Qi Lin**, a student in the Software Maintenance and Evolution course.
 
 I'm looking forward to learning more about effective strategies for software maintenance and gaining a deeper understanding of how to deal with legacy systems.
 
